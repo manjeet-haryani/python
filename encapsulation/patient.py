@@ -13,7 +13,7 @@ class Patient:
 		return self.ssn
 p = Patient()
 p.setId(456)
-p.setName("mj")
+p.setName("MJ")
 p.setSSN(26011997)
 print(p.getId())
 print(p.getName())
