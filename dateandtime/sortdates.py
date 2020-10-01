@@ -18,4 +18,4 @@ for d in ldates:
 
 endtime = time.perf_counter()
 
-print("execution time",endtime - starttime )
+print("execution time is",endtime - starttime )
