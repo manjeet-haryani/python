@@ -1,4 +1,4 @@
-min= int(input("enter the min value"))
+min= int(input("enter the min value to start"))
 max = int(input("enter the max value"))
 while min<=max:
 	if min%2==1:
